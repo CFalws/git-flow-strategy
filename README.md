@@ -8,3 +8,6 @@
 - [에밀](https://github.com/CFalws/git-flow-strategy/blob/develop/emil/emil.md)
 - [민트](https://github.com/CFalws/git-flow-strategy/blob/develop/mint/mint.md)
 - [포이](https://github.com/CFalws/git-flow-strategy/blob/develop/poi/poi.md)
+
+# 프로젝트를 소개합니다.
+🔥열정있는 사람들과 💪성공적인 스터디를 ! 2️⃣0️⃣1️⃣
